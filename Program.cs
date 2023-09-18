@@ -3,3 +3,4 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("YA AIDYS");
 Console.WriteLine("burbu");
 Console.WriteLine("Orlanovich");
+Console.WriteLine("возраст");
